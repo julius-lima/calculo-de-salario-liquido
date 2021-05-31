@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Calculo de Salario Liquido",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

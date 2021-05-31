@@ -1,0 +1,8 @@
+{
+  "name": "Calculo de Salario Liquido",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a4b12158"
+}
